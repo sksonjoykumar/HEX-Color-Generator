@@ -1,0 +1,43 @@
+// Sass import
+@import "./another_style/index";
+
+.container {
+  //   background-color: black;
+  //   width: 80%;
+  margin: auto;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  .container-2 {
+    .heading {
+      color: black;
+      font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+      font-weight: bold;
+      margin: 40px 0;
+      text-align: center;
+      font-size: 3rem;
+
+      text-shadow: 2px 1px 2px #ff0000;
+    }
+    .mybtn {
+      background-color: $bgButton;
+      color: $bgButtonFont;
+      padding: 15px 26px;
+      margin-top: 3rem;
+      font-size: 22px;
+      border-radius: 10px;
+      cursor: pointer;
+      border-style: none;
+      transition: all 0.2s;
+      font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+      //   box-shadow: 2px 4px 2px #ffffff;
+      border: 2px solid #ffffff;
+    }
+    .mybtn:hover {
+      background-color: $bgColor;
+      color: $bgButtonFont;
+    }
+  }
+}

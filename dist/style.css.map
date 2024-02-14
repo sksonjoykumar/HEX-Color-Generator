@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../another_style/_reset.scss","../style.scss","../another_style/_bgColor.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;;;ACAJ;EAGE;EACA;EACA;EACA;EACA;EACA;;AAEE;EACE;EACA;EACA;EACA;EACA;EACA;EAEA;;AAEF;EACE,kBCvBI;EDwBJ,OCvBQ;EDwBR;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EAEA;;AAEF;EACE,kBCnCG;EDoCH,OCrCQ","file":"style.css"}
